@@ -31,7 +31,7 @@ The output of the program will be a parquet data set that contains trip details 
 
 Two Major Assumption: 
 - The assement says to find trips that are > 0.9 percentile. I am assuming that it means 90 percentile. 
-- Python 3 is used for the program. 
+- I have used Python 3 to write the code. I am assuming that python 3 is available with the team that executes this code.
 
 There are some assumptions made when analysing the data and they include: 
 
